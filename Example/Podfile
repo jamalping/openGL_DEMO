@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'openGL_DEMO_Example' do
+  pod 'openGL_DEMO', :path => '../'
+
+  target 'openGL_DEMO_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

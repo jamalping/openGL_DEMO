@@ -1,0 +1,6 @@
+framework module openGL_DEMO {
+  umbrella header "openGL_DEMO-umbrella.h"
+
+  export *
+  module * { export * }
+}

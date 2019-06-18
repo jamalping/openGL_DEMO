@@ -1,0 +1,6 @@
+framework module Pods_openGL_DEMO_Tests {
+  umbrella header "Pods-openGL_DEMO_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

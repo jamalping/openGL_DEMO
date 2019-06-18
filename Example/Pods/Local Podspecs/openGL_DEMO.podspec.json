@@ -1,0 +1,22 @@
+{
+  "name": "openGL_DEMO",
+  "version": "0.1.0",
+  "summary": "A short description of openGL_DEMO.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jamalping/openGL_DEMO",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jamalping": "420436097@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jamalping/openGL_DEMO.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "openGL_DEMO/Classes/**/*"
+}
